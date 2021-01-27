@@ -1,5 +1,5 @@
 {
-    "name": "php/fend-core",
+    "name": "soft35/fend-core",
     "description": "Fend Framework Core",
     "autoload": {
         "psr-4": {
@@ -17,10 +17,6 @@
         "packagist": {
             "type": "composer",
             "url": "https://mirrors.aliyun.com/composer/"
-        },
-        "xeslib": {
-            "type": "composer",
-            "url": "http://packagist.xesv5.com:8093"
         }
     },
     "config": {
